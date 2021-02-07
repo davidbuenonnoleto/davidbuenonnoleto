@@ -14,6 +14,6 @@
 <h3> 🤝🏻 Find me at </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/david-noleto-9121463b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-david-noleto-9121463b-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/david-noleto-9121463b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-davidnoleto-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/davidbuenonn/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-davidbuenonn-blue?style=flat-square&logo=instagram"></a>
 </p>
