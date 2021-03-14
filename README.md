@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Building stuff that behaves like living organisms.
-- 💼 &nbsp; Founder/CEO Beyond Monkeys
+
 
 <br/>
 
