@@ -10,7 +10,6 @@
 <br/>
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbuenonnoleto&show_icons=true)](https://github.com/davidbuenonnoleto)
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbuenonnoleto&theme=dark&show_icons=true)
 <h3> 🤝🏻 Find me at </h3>
 
 <p align="center">
