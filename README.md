@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I'm an accomplished Full Stack Developer with more than 5+ years on the market. Being self-motivated, persistent, clear communicator, and with a keen eye to deliver high-quality work. I am looking to cultivate collaborative and supportive team environment. 
+- Full Stack Developer with 5 years of experience. Being self-motivated, persistent, clear communicator, and with a keen eye to deliver high-quality work.
 
 
 <br/>
