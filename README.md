@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- Software Engineer with 3+ years of experience. Being self-motivated, persistent, clear communicator, and with a keen eye to deliver high-quality work.
+- Software Engineer. Self-motivated, persistent, clear communicator, and with a keen eye to deliver high-quality work.
 
 
 <br/>
