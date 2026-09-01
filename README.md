@@ -17,8 +17,11 @@ device tooling for IoT sensors, and the computer-vision pipelines that make sens
 
 ### 🔧 Selected work
 
-Most of it lives in private repos, so here's what it actually is:
+Some of it lives in private repos, so here's what it actually is:
 
+- **[chillcheck](https://github.com/davidbuenonnoleto/chillcheck)** — cold-chain temperature
+  compliance for restaurants: Go API (chi, pgx, JWT), React/TypeScript frontend, Stripe billing,
+  and a standalone Go BLE gateway agent for a Raspberry Pi.
 - **IoT device tooling** *(private)* — a Go agent + React/TypeScript operations console for
   provisioning sensor units: USB/serial device protocol, firmware delivery, AWS IoT onboarding,
   and fleet management over Postgres and Hasura.
