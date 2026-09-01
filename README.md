@@ -1,4 +1,4 @@
-## David Noleto
+## David Bueno
 
 **Software Engineer — Go & Python.** I work at the seam between hardware and the cloud:
 device tooling for IoT sensors, and the computer-vision pipelines that make sense of what they see.
@@ -34,4 +34,4 @@ Most of my current work lives in private repos, so here's what it actually is:
 
 ### 🤝🏻 Find me at
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Noleto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-b-9121463b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Bueno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-b-9121463b/)
