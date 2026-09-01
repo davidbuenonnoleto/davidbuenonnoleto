@@ -19,10 +19,8 @@ Most of my current work lives in private repos, so here's what it actually is:
 - **Wynd Console** *(private)* — a Go agent + React/TypeScript operations console for provisioning
   IoT sensor units. USB/serial device protocol, firmware delivery, AWS IoT onboarding, and
   fleet management over Postgres and Hasura.
-- **wyndctl** *(private)* — the Go CLI it grew out of: device provisioning, deployment, and calibration.
-- **activityly** *(private)* — a Python computer-vision pipeline for gopher-mound detection in
-  pest control, built on an RF-DETR detector at ~90% mAP.
-- **[goalgos](https://github.com/davidbuenonnoleto/goalgos)** — algorithm implementations in Go.
+- **Computer vision** *(private)* — a Python pipeline for object-detection work: dataset
+  preparation, model training, and evaluation.
 
 ### 🛠 Tech
 
@@ -37,4 +35,3 @@ Most of my current work lives in private repos, so here's what it actually is:
 ### 🤝🏻 Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Noleto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-bueno-9121463b/)
-[![Website](https://img.shields.io/badge/Website-davidbuenonnoleto.github.io-24292e?style=flat-square&logo=github)](https://davidbuenonnoleto.github.io/)
