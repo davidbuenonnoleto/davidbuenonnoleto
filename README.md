@@ -1,17 +1,40 @@
-<h2>David Noleto</h2>
+## David Noleto
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbuenonnoleto" alt="davidbuenonnoleto" /> </p>
+**Software Engineer — Go & Python.** I work at the seam between hardware and the cloud:
+device tooling for IoT sensors, and the computer-vision pipelines that make sense of what they see.
 
-<h3> 👨🏻‍💻 About Me </h3>
+📍 Belmont, CA · Currently building device provisioning tooling at **Wynd**
 
-- Software Engineer. Self-motivated, persistent, clear communicator, and with a keen eye to deliver high-quality work.
+### 👨🏻‍💻 About Me
 
+- **Systems and backend in Go** — local agents and CLIs that speak a hand-rolled serial protocol to
+  USB-connected devices, flash firmware, and onboard units to AWS IoT.
+- **Computer vision in Python** — data pipelines, object-detection training and evaluation.
+- I care about small, well-bounded components with interfaces a teammate can pick up cold.
 
-<br/>
+### 🔧 What I'm building
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbuenonnoleto&show_icons=true)
-<h3> 🤝🏻 Find me at </h3>
+Most of my current work lives in private repos, so here's what it actually is:
 
-<p align="center">
-<a href="https://www.linkedin.com/in/david-bueno-9121463b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-davidnoleto-blue?style=flat-square&logo=linkedin"></a>
-</p>
+- **Wynd Console** *(private)* — a Go agent + React/TypeScript operations console for provisioning
+  IoT sensor units. USB/serial device protocol, firmware delivery, AWS IoT onboarding, and
+  fleet management over Postgres and Hasura.
+- **wyndctl** *(private)* — the Go CLI it grew out of: device provisioning, deployment, and calibration.
+- **activityly** *(private)* — a Python computer-vision pipeline for gopher-mound detection in
+  pest control, built on an RF-DETR detector at ~90% mAP.
+- **[goalgos](https://github.com/davidbuenonnoleto/goalgos)** — algorithm implementations in Go.
+
+### 🛠 Tech
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🤝🏻 Find me at
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Noleto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-bueno-9121463b/)
+[![Website](https://img.shields.io/badge/Website-davidbuenonnoleto.github.io-24292e?style=flat-square&logo=github)](https://davidbuenonnoleto.github.io/)
