@@ -1,6 +1,6 @@
 ## David Bueno
 
-**Software Engineer — Go & Python, 5+ years.** I work at the seam between hardware and the cloud:
+**Software Engineer — Go, 5+ years.** I work at the seam between hardware and the cloud:
 device tooling for IoT sensors, and the computer-vision pipelines that make sense of what they see.
 
 📍 Belmont, CA · Currently building device provisioning tooling for IoT sensor fleets
