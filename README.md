@@ -5,7 +5,7 @@ device tooling for IoT sensors, and the computer-vision pipelines that make sens
 
 📍 Belmont, CA · Currently building device provisioning tooling for IoT sensor fleets
 
-### 👨🏻‍💻 About Me
+### About Me
 
 - **Systems and backend in Go** — local agents and CLIs that speak a hand-rolled serial protocol to
   USB-connected devices, flash firmware, and onboard units to AWS IoT. Go in production across a
@@ -14,7 +14,7 @@ device tooling for IoT sensors, and the computer-vision pipelines that make sens
 - **Computer vision in Python** — data pipelines, object-detection training and evaluation.
 - I care about small, well-bounded components with interfaces a teammate can pick up cold.
 
-### 🔧 Selected work
+### Work
 
 Some of it lives in private repos, so here's what it actually is:
 
@@ -29,7 +29,7 @@ Some of it lives in private repos, so here's what it actually is:
 - **Last-mile logistics platform** *(2020–2022)* — a web management platform for a logistics
   company that streamlined internal processes and lowered logistics costs by ~10%.
 
-### 🛠 Tech
+###  Tech
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,6 +39,6 @@ Some of it lives in private repos, so here's what it actually is:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🤝🏻 Find me at
+###  Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Bueno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-b-9121463b/)
