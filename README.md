@@ -21,8 +21,8 @@ Some of it lives in private repos, so here's what it actually is:
 - **[chillcheck](https://github.com/davidbuenonnoleto/chillcheck)** — cold-chain temperature
   compliance for restaurants: Go API (chi, pgx, JWT), React/TypeScript frontend, Stripe billing,
   and a standalone Go BLE gateway agent for a Raspberry Pi.
-- **IoT device tooling** *(private)* — a Go agents + HTMX operations console for
-  provisioning yocto based device: firmware delivery, AWS IoT onboarding,
+- **IoT device tooling** *(private)* — a Go daemon + HTMX operations console for
+  provisioning yocto based devices: firmware delivery, AWS IoT onboarding,
   and fleet management.
 - **Computer vision** *(private)* — a Python pipeline for object-detection work: dataset
   preparation, model training, and evaluation.
