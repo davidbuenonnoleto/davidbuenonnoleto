@@ -11,8 +11,7 @@ device tooling for IoT sensors, and the computer-vision pipelines that make sens
   USB-connected devices, flash firmware, and onboard units to AWS IoT. Go in production across a
   logistics platform and internal tooling.
 - **Device telemetry and firmware validation** — I work close to the hardware teams.
-- **Computer vision in Python** — data pipelines, object-detection training and evaluation.
-- I care about small, well-bounded components with interfaces a teammate can pick up cold.
+
 
 ### Work
 
